@@ -1,0 +1,8 @@
+D:\Mart14\Mart14\obj\Debug\Benchmark.csprojAssemblyReference.cache
+D:\Mart14\Mart14\obj\Debug\Benchmark.Form1.resources
+D:\Mart14\Mart14\obj\Debug\Mart14.Properties.Resources.resources
+D:\Mart14\Mart14\obj\Debug\Benchmark.csproj.GenerateResource.cache
+D:\Mart14\Mart14\obj\Debug\Benchmark.csproj.CoreCompileInputs.cache
+D:\Mart14\Mart14\obj\Debug\Mart14.exe
+D:\Mart14\Mart14\obj\Debug\Mart14.pdb
+D:\Mart14\Mart14\obj\Debug\Mart14.Form1.resources
